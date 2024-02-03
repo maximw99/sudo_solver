@@ -66,6 +66,5 @@ def solve(board):
 
 show_board(board)
 solve(board)
-print("-----------------------",
-      "-----------------------")
+print("-----------------------","\n-----------------------")
 show_board(board)
